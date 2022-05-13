@@ -112,10 +112,10 @@ class Main {
 
     onWindowLoad() {
         if (!this.xhrSucceeded) {
-            const message = "Your browser does not allow to read local files.";
+            const message = "Tu navegador no permite leer archivos locales.";
             this.printError("Error", message);
         } else if (this.isPathRandomized()) {
-            const message = "Please move the Game.app to a different folder.";
+            const message = "Porfavor mueve el Game.app a una carpeta diferente.";
             this.printError("Error", message);
         } else if (this.error) {
             this.printError(this.error.name, this.error.message);
@@ -151,7 +151,7 @@ class Main {
     }
 
     onEffekseerError() {
-        this.printError("Failed to load", effekseerWasmUrl);
+        this.printError("Fallo al leer", effekseerWasmUrl);
     }
 }
 
