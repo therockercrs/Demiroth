@@ -1,12 +1,21 @@
-# proyectorpg
-Este proyecto esta siendo desarrollado por el equipo de Cuede Games dedicado a este juego.
+# Demiroth
+
+Este proyecto esta siendo desarrollado por Demiroth team de Cuede Games.
+
 autores: 
-Historia:Rodrigo Vergara
-Graficos: Aramiz , Time Fantasy resources
-Plugins: Visustella Pluggins
+
+Historia: Rodrigo Vergara.
+
+Graficos: Aramiz , Time Fantasy resources.
+
+Plugins: Visustella Pluggins.
+
 Sonido:
-Desarrollo: Christian  , Aramiz  , Rodrigo Vergara
+
+Desarrollo: Christian  , Aramiz  , Rodrigo Vergara.
+
 Traduccion al ingles: Christian.
+
 Publisher (google play y microsoft store): Cuede Games.
 
 -----------------------------------------------------------------VVV Ideas/Fichas VVV--------------------------------------------------------
@@ -41,33 +50,43 @@ Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les
 -----------------------------------------------------------------ɅɅɅ Ideas/Fichas ɅɅɅ------------------------------------------------------------
 
 ----------------------------------------------------------------VVV Historia/Guion VVV-----------------------------------------------------------
-planteamiento: 
+
+# planteamiento: 
 
 El personaje sufrira un transcurso de su vida cotidiana hacia el conflicto en el que transcurrira el juego, dependiendo de su clase, la escena principal variara.
+
 (Guerrero1): El guerrero comenzara en su cabaña cuando
+
 (Milicia2): El milicia comenzara en un ataque de los orcos de Roditar hacia la milicia de Rekin.
+
 (Hechicero3): El hechicero comenzara en un bosque cuando
+
 (Sacerdote4): El sacerdote comenzara en la iglesia de Rekin cuando descubre un hecho de corrupcion en la zona lo que lo hace querer tomar su propio camino
 
 Una vez finalizado el "tutorial" y se hace el transcurso hacia el reino Rekin (al que pertenece el personaje) 
 
+# nudo:
 
+# desenlace:
 
-nudo:
+# Final: 
 
+El juego contara con 2 finales variables dependiendo de la decision del jugador.
 
-
-desenlace:
-
-
-
-Final: El juego contara con 2 finales variables dependiendo de la decision del jugador.
 1er final: El grupo de heroes evita que el Lich sea invocado y sostiene una intensa batalla con Karoth en la que se daran las opciones de asesinarlo o perdonarlo, en el momento en el que Karoth ruega por su vida.
+
 opcion 1 perdonar: Karoth ordena la rendicion de su ejercito y es encarcelado, pero al momento de ingresar al reino de Rekin, los ciudadanos lo matan, junto a los pocos sobrevivientes orcos.
+
 opcion 2 asesinar: El heroe asesina a Karoth y el resto del ejercito de la alianza acaba con el ejercito restante de Roditar.
+
 2do final: (Se debe seguir una ruta "honor") El lich completa su resurreccion y los heroes tienen el mismo combate con Karoth que en la opcion 1, con las mismas opciones de dejarlo vivo o asesinarlo pero lo sucedido cambia.
-opcion 1 perdonar: 
+
+opcion 1 perdonar: Karoth es perdonado por el heroe y decide ayudarlos para matar al Lich, 
+
 ---------------------------------------------------------ɅɅɅ Historia/Guion ɅɅɅ-----------------------------------------------------------
 
 ------------------------------------------------VVV Ideas/Histora de misiones secundarias VVV-------------------------------------------------------
+
 ------------------------------------------------ɅɅɅ Ideas/Histora de misiones secundarias ɅɅɅ-------------------------------------------------------
+
+© Demiroth 2021-2023 all rights reserved.
