@@ -2,8 +2,6 @@
 
 Este proyecto esta siendo desarrollado por Demiroth team de Cuede Games.
 
-autores: 
-
 Historia: Rodrigo Vergara.
 
 Graficos: Aramiz , Time Fantasy resources.
