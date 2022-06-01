@@ -1,16 +1,4 @@
-# proyectorpg
-Este proyecto esta siendo desarrollado por el equipo de Cuede Games dedicado a este juego.
-autores: anonimos.
+# Demiroth
+Videojuego desarrollado por team demiroth de Cuede Games.
 
-historia: El heroe (jugador), junto a un grupo de aventureros (compañeros obtenidos a lo largo de la historia) derrotara a el rey lich, invocado por un grupo de cultistas que conviven con los orcos, con el fin de ganar la guerra con los humanos.
-
-Personajes principales:
-Heroe (Jugador):
-
-Karoth: Gobernante y lider de los orcos, quien tiene un odio muy fuerte por la humanidad, trabaja junto al culto del lich para tener su poder y derrotar a los humanos.
-
-Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de los dioses, solo ansia con acabar todo a su paso.
-
-Cultistas: un grupo de magos, que de generacion en generacion, les fueron transmitidos los conocimientos y devocion al rey lich.
-
-Mundo (): () cuenta con 2 grandes continentes () tierra de orcos, quienes conviven con otras especies y () tierra de humanos, quienes tambien conviven con otras especies. 
+©Demiroth 2021-2023 all rights reserved.
