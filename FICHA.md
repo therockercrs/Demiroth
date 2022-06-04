@@ -16,7 +16,7 @@ Traduccion al ingles: Christian.
 
 Publisher (google play y microsoft store): Cuede Games.
 
------------------------------------------------------------------VVV Ideas/Fichas VVV--------------------------------------------------------
+---------------------------------------------VVV Ideas/Fichas VVV-------------------------------------------
 Resumen: El heroe (jugador), junto a un grupo de aventureros (compañeros obtenidos a lo largo de la historia) derrotara a el rey lich, invocado por un grupo de cultistas que conviven con los orcos, con el fin de ganar la guerra con los humanos (Alianza de distintos reinos e incluso otras razas).
 
 Demiroth: Es el mundo donde transcurre el juego, en su gran parte transcurrira en el continente de mondria, aunque en Demiroth puede que haya mas continentes / islas desconocidos.
@@ -45,11 +45,17 @@ Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de l
 
 Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les fueron transmitidos los conocimientos y devocion al rey lich.
 
------------------------------------------------------------------ɅɅɅ Ideas/Fichas ɅɅɅ------------------------------------------------------------
+---------------------------------------------ɅɅɅ Ideas/Fichas ɅɅɅ-------------------------------------------
 
-----------------------------------------------------------------VVV Historia/Guion VVV-----------------------------------------------------------
+------------------------------------------VVV Historia/Guion VVV--------------------------------------------
 
 # planteamiento: 
+
+En la pantalla inicial se vera un paisaje junto con una musica relajante, se le dara la bienvenida a Demiroth al jugador y se le preguntara su nombre y su genero. Seguido se le dira que proseguiran con unas preguntas, y dependiendo de las respuestas se le dara una clase al jugador.
+
+preguntas:
+
+¿
 
 El personaje sufrira un transcurso de su vida cotidiana hacia el conflicto en el que transcurrira el juego, dependiendo de su clase, la escena principal variara.
 
@@ -81,10 +87,9 @@ opcion 2 asesinar: El heroe asesina a Karoth y el resto del ejercito de la alian
 
 opcion 1 perdonar: Karoth es perdonado por el heroe y decide ayudarlos para matar al Lich, 
 
----------------------------------------------------------ɅɅɅ Historia/Guion ɅɅɅ-----------------------------------------------------------
+-----------------------------------------ɅɅɅ Historia/Guion ɅɅɅ--------------------------------------------
 
-------------------------------------------------VVV Ideas/Histora de misiones secundarias VVV-------------------------------------------------------
-
-------------------------------------------------ɅɅɅ Ideas/Histora de misiones secundarias ɅɅɅ-------------------------------------------------------
+---------------------------VVV Ideas/Histora de misiones secundarias VVV------------------------------------
+--------------------------ɅɅɅ Ideas/Histora de misiones secundarias ɅɅɅ------------------------------------
 
 © Demiroth 2021-2023 all rights reserved.
