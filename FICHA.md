@@ -53,9 +53,37 @@ Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les
 
 En la pantalla inicial se vera un paisaje junto con una musica relajante, se le dara la bienvenida a Demiroth al jugador y se le preguntara su nombre y su genero. Seguido se le dira que proseguiran con unas preguntas, y dependiendo de las respuestas se le dara una clase al jugador.
 
-preguntas:
+preguntas grupo 1:
 
-¿
+¿Cual es tu estacion favorita? re: verano (guerrero 4 sacerdote 2 milicia 1), otoño (milicia 4 hechicero 2 guerrero 1), invierno (hechicero 4 milicia 2 sacerdote 1), primavera (sacerdote 4 guerrero 2 hechicero 1)
+
+¿Cual es tu lugar favorito? re: bosque (guerrero 3 hechicero 1), ciudad (milicia 3 guerrero 1), montañas (sacerdote 3 milicia 1), cueva (hechicero 3 sacerdote 1)
+
+¿Con que animal te identificas mas? re: Leon (guerrero 3 hechicero 1), Toro (milicia 3 sacerdote 1), lechuza (sacerdote 3 milicia 1), cuervo (hechicero 3 guerrero 1)
+
+¿?
+
+preguntas grupo 2:
+
+Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 milicia 1), me pongo frente a mis compañeros y los defiendo con mi escudo (milicia 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1),lo ataco con magia (hechicero 4 sacerdote 1)
+
+¿?
+
+¿?
+
+¿?
+
+preguntas grupo 3:
+
+¿?
+
+¿?
+
+¿?
+
+¿?
+
+en caso de que el jugador este disconforme con la clase asignada se le dara eleccion de clase.
 
 El personaje sufrira un transcurso de su vida cotidiana hacia el conflicto en el que transcurrira el juego, dependiendo de su clase, la escena principal variara.
 
