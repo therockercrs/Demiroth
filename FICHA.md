@@ -17,6 +17,7 @@ Traduccion al ingles: Christian.
 Publisher (google play y microsoft store): Cuede Games.
 
 ---------------------------------------------VVV Ideas/Fichas VVV-------------------------------------------
+
 Resumen: El heroe (jugador), junto a un grupo de aventureros (compañeros obtenidos a lo largo de la historia) derrotara a el rey lich, invocado por un grupo de cultistas que conviven con los orcos, con el fin de ganar la guerra con los humanos (Alianza de distintos reinos e incluso otras razas).
 
 Demiroth: Es el mundo donde transcurre el juego, en su gran parte transcurrira en el continente de mondria, aunque en Demiroth puede que haya mas continentes / islas desconocidos.
@@ -118,6 +119,7 @@ opcion 1 perdonar: Karoth es perdonado por el heroe y decide ayudarlos para mata
 -----------------------------------------ɅɅɅ Historia/Guion ɅɅɅ--------------------------------------------
 
 ---------------------------VVV Ideas/Histora de misiones secundarias VVV------------------------------------
+
 --------------------------ɅɅɅ Ideas/Histora de misiones secundarias ɅɅɅ------------------------------------
 
 © Demiroth 2021-2023 all rights reserved.
