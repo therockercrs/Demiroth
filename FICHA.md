@@ -4,7 +4,7 @@ Este proyecto esta siendo desarrollado por Demiroth team de Cuede Games.
 
 Historia: Rodrigo Vergara.
 
-Graficos: Aramiz , Time Fantasy resources.
+Arte: Aramiz , Time Fantasy resources.
 
 Plugins: Visustella Pluggins.
 
@@ -14,7 +14,7 @@ Desarrollo: Christian  , Aramiz  , Rodrigo Vergara.
 
 Traduccion al ingles: Christian.
 
-Publisher (google play y microsoft store): Cuede Games.
+Publisher (google play, microsoft store y itch.io): Cuede Games.
 
 ---------------------------------------------VVV Ideas/Fichas VVV-------------------------------------------
 
@@ -101,6 +101,8 @@ Una vez finalizado el "tutorial" y se hace el transcurso hacia el reino Rekin (a
 # nudo:
 
 # desenlace:
+
+El ejercito de la alianza avanza hacia Roditar y ocurre una gran guerra entre ambos ejercitos.
 
 # Final: 
 
