@@ -66,9 +66,9 @@ preguntas grupo 1:
 
 preguntas grupo 2:
 
-Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 milicia 1), me pongo frente a mis compañeros y los defiendo con mi escudo (milicia 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1),lo ataco con magia (hechicero 4 sacerdote 1)
+Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 milicia 1), me pongo frente a mis compañeros y los defiendo con mi escudo (milicia 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1), lo ataco con magia (hechicero 4 sacerdote 1)
 
-¿?
+Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (guerrero 3), A socializar con otra gente (milicia 3), A escuchar la musica del bardo (sacerdote 3), A hacer algo de dinero apostando (Hechicero 3)
 
 ¿?
 

@@ -1,5 +1,5 @@
 //=============================================================================
-// main.js v1.4.4
+// main.js v1.5.0
 //=============================================================================
 
 const scriptUrls = [
@@ -112,10 +112,10 @@ class Main {
 
     onWindowLoad() {
         if (!this.xhrSucceeded) {
-            const message = "Tu navegador no permite leer archivos locales.";
+            const message = "Your browser does not allow to read local files.";
             this.printError("Error", message);
         } else if (this.isPathRandomized()) {
-            const message = "Porfavor mueve el Game.app a una carpeta diferente.";
+            const message = "Please move the Game.app to a different folder.";
             this.printError("Error", message);
         } else if (this.error) {
             this.printError(this.error.name, this.error.message);
@@ -151,7 +151,7 @@ class Main {
     }
 
     onEffekseerError() {
-        this.printError("Fallo al leer", effekseerWasmUrl);
+        this.printError("Failed to load", effekseerWasmUrl);
     }
 }
 
