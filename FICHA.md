@@ -42,7 +42,7 @@ Julius rey de Rekin:
 
 Karoth: Gobernante y lider de los orcos, quien tiene un odio muy fuerte por la humanidad, trabaja junto al culto del lich para tener su poder y derrotar a los humanos.
 
-Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de los dioses, solo ansia acabar con todo a su paso.
+Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de los dioses, solo ansia con acabar todo a su paso.
 
 Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les fueron transmitidos los conocimientos y devocion al rey lich.
 
@@ -54,35 +54,34 @@ Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les
 
 En la pantalla inicial se vera un paisaje junto con una musica relajante, se le dara la bienvenida a Demiroth al jugador y se le preguntara su nombre y su genero. Seguido se le dira que proseguiran con unas preguntas, y dependiendo de las respuestas se le dara una clase al jugador.
 
-preguntas grupo 1:
+Preguntas de Entorno?
 
-¿Cual es tu estacion favorita? re: verano (guerrero 4 sacerdote 2 milicia 1), otoño (milicia 4 hechicero 2 guerrero 1), invierno (hechicero 4 milicia 2 sacerdote 1), primavera (sacerdote 4 guerrero 2 hechicero 1)
+¿Qué estación te representa más? re: verano (guerrero 4 sacerdote 2 milicia 1), otoño (milicia 4 hechicero 2 guerrero 1), invierno (hechicero 4 milicia 2 sacerdote 1), primavera (sacerdote 4 guerrero 2 hechicero 1)
 
-¿Cual es tu lugar favorito? re: bosque (guerrero 3 hechicero 1), ciudad (milicia 3 guerrero 1), montañas (sacerdote 3 milicia 1), cueva (hechicero 3 sacerdote 1)
+¿Qué geografía te representa más? re: bosque (guerrero 3 hechicero 1), ciudad (milicia 3 guerrero 1), montañas (sacerdote 3 milicia 1), cueva (hechicero 3 sacerdote 1)
 
-¿Con que animal te identificas mas? re: Leon (guerrero 3 hechicero 1), Toro (milicia 3 sacerdote 1), lechuza (sacerdote 3 milicia 1), cuervo (hechicero 3 guerrero 1)
+¿Con qué animal te identificas más? re: León (guerrero 3 hechicero 1), Toro (milicia 3 sacerdote 1), lechuza (sacerdote 3 milicia 1), cuervo (hechicero 3 guerrero 1)
 
 ¿Cual es tu sabor favorito? re: Amargo (guerrero 4 hechicero 2), Picante (milicia 4 sacerdote 2), Dulce (sacerdote 4 milicia 2), Salado (hechicero 4 guerrero 2)
 
-preguntas grupo 2:
+Preguntas situacionales:
 
 Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo ataco con mi arma (guerrero 4 milicia 1), me pongo frente a mis compañeros y los defiendo con mi escudo (milicia 4 guerrero 1), uso mi magia para curar a mis compañeros (sacerdote 4 hechicero 1), lo ataco con magia (hechicero 4 sacerdote 1)
 
 Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (guerrero 3), A socializar con otra gente (milicia 3), A escuchar la musica del bardo (sacerdote 3), A hacer algo de dinero apostando (Hechicero 3)
 
+Eres voluntario para ayudar en el desarrollo de un pequeño pueblo ¿Qué actividad escoges? re: Sanando enfermos en el hospital, Patrullando los perímetros de la aldea para proteger a los aldeanos, Cazando animales amenazantes para los habitantes, Protección y difusión de libros en biblioteca,  
 Ves que se le cae dinero al suelo a una anciana, ¿que haces? re: Buscas a la anciana y se lo devuelves (Guerrero 3 milicia 1), Dejarlo en el cuartel militar junto a los objetos perdidos (milicia 3 guerrero 1), Donar el dinero (sacerdote 4), Quedarse con el dinero (hechicero 4)
 
-¿?
+Preguntas Sociales:
 
-preguntas grupo 3:
+¿Cómo te gustaría que los demás te vieran? re: aventurera por naturaleza, curiosa sobre el conocimiento del mundo, confiable y siempre dispuesto, preocupado por el bienestar de personas y animales
 
-¿?
+¿Si hubieses podido elegir a tu familia idealre eleigr padres o familia?
 
-¿?
+En un grupo de amigos me refleja más re: observador de lo que sucede, haciendo reír a todos, atento al estado anímico de cada uno, solo disfrutando del tiempo con ellos 
 
-¿?
-
-¿?
+Despiertas en un mundo paralelo ¿Cómo sería? re: Donde pudiese ejercitarme y preparme para el combate, Donde todo está en paz, Donde disponga de todo lo necesario para defender a los míos, Donde pudiera aprender sobre artes secretas de ese mundo 
 
 en caso de que el jugador este disconforme con la clase asignada se le dara eleccion de clase.
 
