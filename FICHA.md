@@ -42,7 +42,7 @@ Julius rey de Rekin:
 
 Karoth: Gobernante y lider de los orcos, quien tiene un odio muy fuerte por la humanidad, trabaja junto al culto del lich para tener su poder y derrotar a los humanos.
 
-Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de los dioses, solo ansia con acabar todo a su paso.
+Lich: rey de la muerte y destruccion, sellado en otro plano desde la guerra de los dioses, solo ansia acabar con todo a su paso.
 
 Cultistas: un grupo de magos de la raza (), que de generacion en generacion, les fueron transmitidos los conocimientos y devocion al rey lich.
 
@@ -62,7 +62,7 @@ preguntas grupo 1:
 
 ¿Con que animal te identificas mas? re: Leon (guerrero 3 hechicero 1), Toro (milicia 3 sacerdote 1), lechuza (sacerdote 3 milicia 1), cuervo (hechicero 3 guerrero 1)
 
-¿?
+¿Cual es tu sabor favorito? re: Amargo (guerrero 4 hechicero 2), Picante (milicia 4 sacerdote 2), Dulce (sacerdote 4 milicia 2), Salado (hechicero 4 guerrero 2)
 
 preguntas grupo 2:
 
@@ -70,7 +70,7 @@ Vas a luchar contra un enemigo junto con tus compañeros, ¿que haces? re: lo at
 
 Estas en un bar, ¿a que has venido? re: A beber y comer algo para descansar (guerrero 3), A socializar con otra gente (milicia 3), A escuchar la musica del bardo (sacerdote 3), A hacer algo de dinero apostando (Hechicero 3)
 
-¿?
+Ves que se le cae dinero al suelo a una anciana, ¿que haces? re: Buscas a la anciana y se lo devuelves (Guerrero 3 milicia 1), Dejarlo en el cuartel militar junto a los objetos perdidos (milicia 3 guerrero 1), Donar el dinero (sacerdote 4), Quedarse con el dinero (hechicero 4)
 
 ¿?
 
